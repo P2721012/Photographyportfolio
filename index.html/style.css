@@ -1,0 +1,30 @@
+h1{ 
+    color: black;
+}
+
+h1{
+    color: black;
+} /* using the Curly brackets helps to specific What part of the code needs to actually be written ans also i used style to make my text black */
+
+.photos{
+    display:grid;
+ grid-template-columns:1fr 1fr 1fr;
+} /* i used the grind tempate to help my my html understand hoe to lay out my photos on my page*/
+    body, html {
+        height: 100%;
+    }
+.logo{
+    width: 200px;
+} 
+ .socials{
+    width: 100px; ;
+ }   
+ .homePicture{
+    width: 30%;
+    height: 40vw;  
+ }
+
+ .portfolio{
+    width:30%;
+ } /* using this 4  Attributes from the class helps to  adjust what needs to be put in at first i Struggled to find the right px to us when arrangiong my pcitures */
+
